@@ -59,6 +59,18 @@
       </div>
     </li>
     <li>
+      <h3>Formulaire d'Authentification Locale</h3>
+      <p>formulaire d'authentification (connexion et inscription) qui fonctionne en local, idéal pour une démonstration simple ou un prototype de gestion d'utilisateurs. Les informations utilisateur sont stockées dans localStorage pour simuler une base de données locale.</p>
+      <div>
+        <a href="https://github.com/AbderemaneAttoumaniDEV/Local-Authentication-Form" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="Code GitHub" />
+        </a>
+        <a href="https://abderemaneattoumanidev.github.io/Local-Authentication-Form/" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
+        </a>
+      </div>
+    </li>
+    <li>
       <h3>TP ToDoList</h3>
       <p>Une application ToDoList simple  et interactive développée en HTML, CSS et JavaScript. Ce projet permet aux utilisateurs de créer, modifier et supprimer des tâches, offrant une interface intuitive pour organiser des listes de tâches.</p>
       <div>
