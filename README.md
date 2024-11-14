@@ -71,7 +71,7 @@
       </div>
     </li>
     <li>
-      <h3>TP ToDoList</h3>
+      <h3>To Do List</h3>
       <p>Une application ToDoList simple  et interactive développée en HTML, CSS et JavaScript. Ce projet permet aux utilisateurs de créer, modifier et supprimer des tâches, offrant une interface intuitive pour organiser des listes de tâches.</p>
       <div>
         <a href="https://github.com/AbderemaneAttoumaniDEV/ToDoList-JavaScript" target="_blank">
