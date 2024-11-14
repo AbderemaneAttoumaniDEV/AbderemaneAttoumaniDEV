@@ -47,6 +47,18 @@
     </li>
     <br>
     <li>
+      <h3>Weather App</h3>
+      <p>Application Météo en temps réel utilisant l'API OpenWeather et une carte interactive, développée avec HTML, CSS et JavaScript. Responsive et optimisée pour les appareils mobiles.</p>
+      <div>
+        <a href="https://github.com/AbderemaneAttoumaniDEV/WeatherApp" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="Code GitHub" />
+        </a>
+        <a href="https://abderemaneattoumanidev.github.io/WeatherApp/" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
+        </a>
+      </div>
+    </li>
+    <li>
       <h3>Générateur de Mot de Passe Sécurisé</h3>
       <p>Un générateur de mot de passe sécurisé et un vérificateur de robustesse avec une interface utilisateur interactive. Ce projet permet à l'utilisateur de créer des mots de passe aléatoires avec des critères personnalisables et de tester la robustesse de mots de passe existants. L'application permet également de copier et coller facilement les mots de passe grâce à des boutons dédiés.</p>
       <div>
