@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gugi&size=30&duration=4003&pause=80&color=F79808&width=435&lines=Hello+world!;Je+m'appelle+Abdérémane+Attoumani" alt="Typing SVG" /></a>
 </h1>
 
-<h2 align="center">🚀 Développeur Web Full-Stack Junior | En Formation</h2>
+<h2 align="center">🚀 Développeur Web Full-Stack Junior</h2>
 
 ###
 
@@ -24,9 +24,9 @@
 ---
 
 ### 👋 À propos de moi
-- 🎓 **Formation actuelle :** En cours de formation en développement Web full-stack,je m’investis dans l’acquisition de nouvelles compétences.
+- 🎓 **Formation actuelle :** En cours de formation en développement Web Full-Stack, je m’investis dans l’acquisition de nouvelles compétences.
 - 💡 **Objectif :** Devenir un développeur polyvalent et efficace.
-- 🌱 **Actuellement en apprentissage :** JavaScript, Php, React, Docker et d'autres technologies.
+- 🌱 **Actuellement en apprentissage :** Python, JavaScript, Php, React, Docker et d'autres technologies.
 
 ---
 
