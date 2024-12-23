@@ -46,6 +46,18 @@
       </div>
     </li>
     <li>
+      <h3>L'Atelier d'Ayssa</h3>
+      <p>Site vitrine pour l'Atelier d'Ayssa, avec une structure de base et les premières sections du site (accueil, menu et présentation des bijoux).</p>
+      <div>
+        <a href="https://github.com/AbderemaneAttoumaniDEV/Atelier-Ayssa" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="Code GitHub" />
+        </a>
+        <a href="https://abderemaneattoumanidev.github.io/Atelier-Ayssa/" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
+        </a>
+      </div>
+    </li>
+    <li>
       <h3>To Do List</h3>
       <p>Une application ToDoList simple  et interactive développée en HTML, CSS et JavaScript. Ce projet permet aux utilisateurs de créer, modifier et supprimer des tâches, offrant une interface intuitive pour organiser des listes de tâches.</p>
       <div>
