@@ -1,8 +1,8 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gugi&size=30&duration=4003&pause=80&color=F79808&width=435&lines=Hello+world!;Je+m'appelle+Abdérémane+Attoumani" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gugi&size=30&duration=4003&pause=80&color=F79808&width=435&lines=Hello+world!;I+am+Abdérémane+Attoumani" alt="Typing SVG" /></a>
 </h1>
 
-<h2 align="center">🚀 Développeur Web Full-Stack Junior</h2>
+<h2 align="center">🚀 Junior Full-Stack Web Developer</h2>
 
 ###
 
@@ -23,22 +23,22 @@
 
 ---
 
-### 👋 À propos de moi
-- 🎓 **Formation actuelle :** En cours de formation en développement Web Full-Stack, je m’investis dans l’acquisition de nouvelles compétences.
-- 💡 **Objectif :** Devenir un développeur polyvalent et efficace.
-- 🌱 **Actuellement en apprentissage :** Python, JavaScript, Php, React, Docker et d'autres technologies.
+### 👋 About me
+- 🎓 **Current formation :** Currently training in Full-Stack Web development, I am investing in acquiring new skills
+- 💡 **Goal :** Become a versatile and efficient developer
+- 🌱 **Currently learning :** Python, JavaScript, Php, React, Docker and others technologies
 
 ---
 
-### 🌟 Mes Projets
+### 🌟 Projects
 <div align="left">
   <ul>
     <li>
       <h3>Mon Portfolio</h3>
-      <p>Ce projet est simplement mon Portfolio pro, créé dans le cadre de mon apprentissage du développement web. Un projet conçu pour pratiquer HTML5, SCSS, JavaScript, un peu de Php et la structure de fichiers d'un projet.</p>
+      <p>This is simply my Portfolio, created as part of my web development apprenticeship. A project designed to practice HTML5, Tailwind CSS, JavaScript, some Php and the file structure of a project.</p>
       <div>
         <a href="https://github.com/AbderemaneAttoumaniDEV/AbderemaneAttoumaniDEV.github.io" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="Code GitHub" />
+          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
         </a>
         <a href="https://abderemaneattoumanidev.github.io/" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
@@ -47,19 +47,19 @@
     </li>
     <li>
       <h3>Simple Calculator C#</h3>
-      <p>Calculatrice simple en C# permettant d'effectuer des opérations de base (addition, soustraction, multiplication, division)</p>
+      <p>Simple C# calculator to perform basic operations (addition, subtraction, multiplication, division)</p>
       <div>
         <a href="https://github.com/AbderemaneAttoumaniDEV/Simple-Calculator-Csharp" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="Code GitHub" />
+          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
         </a>
       </div>
     </li>
     <li>
       <h3>L'Atelier d'Ayssa</h3>
-      <p>Site vitrine pour l'Atelier d'Ayssa, avec une structure de base et les premières sections du site (accueil, menu et présentation des bijoux).</p>
+      <p>Showcase site for Atelier d'Ayssa, with a basic structure and the first sections of the site (home, menu and presentation of the jewelry)</p>
       <div>
         <a href="https://github.com/AbderemaneAttoumaniDEV/Atelier-Ayssa" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="Code GitHub" />
+          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
         </a>
         <a href="https://abderemaneattoumanidev.github.io/Atelier-Ayssa/" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
@@ -68,10 +68,10 @@
     </li>
     <li>
       <h3>Interactive-Quiz</h3>
-      <p>Ce projet est un Quiz Interactif réalisé dans le cadre de mon apprentissage en développement web. Il permet de pratiquer HTML5, Tailwind CSS, JavaScript, PHP pour le backend, et la gestion d'une structure de fichiers professionnelle.</p>
+      <p>This project is an Interactive Quiz made as part of my web development apprenticeship. It allows you to practice HTML5, Tailwind CSS, JavaScript, PHP for the backend, and the management of a professional file structure</p>
       <div>
         <a href="https://github.com/AbderemaneAttoumaniDEV/Interactive-Quiz" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="Code GitHub" />
+          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
         </a>
         <a href="https://abderemaneattoumanidev.github.io/Interactive-Quiz/" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
@@ -80,10 +80,10 @@
     </li>
     <li>
       <h3>To Do List</h3>
-      <p>Une application ToDoList simple  et interactive développée en HTML, CSS et JavaScript. Ce projet permet aux utilisateurs de créer, modifier et supprimer des tâches, offrant une interface intuitive pour organiser des listes de tâches.</p>
+      <p>A simple and interactive ToDoList application developed in HTML, CSS and JavaScript. This project allows users to create, edit and delete tasks, providing an intuitive interface for organizing to-do lists</p>
       <div>
         <a href="https://github.com/AbderemaneAttoumaniDEV/ToDoList-JavaScript" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="Code GitHub" />
+          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
         </a>
         <a href="https://abderemaneattoumanidev.github.io/ToDoList-JavaScript/" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
@@ -93,10 +93,10 @@
     <br>
     <li>
       <h3>Weather App</h3>
-      <p>Application Météo en temps réel utilisant l'API OpenWeather et une carte interactive, développée avec HTML, CSS et JavaScript. Responsive et optimisée pour les appareils mobiles.</p>
+      <p>Real-time weather application using OpenWeather API and interactive map, developed with HTML, CSS and JavaScript. Responsive and optimized for mobile devices</p>
       <div>
         <a href="https://github.com/AbderemaneAttoumaniDEV/WeatherApp" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="Code GitHub" />
+          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
         </a>
         <a href="https://abderemaneattoumanidev.github.io/WeatherApp/" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
@@ -104,11 +104,11 @@
       </div>
     </li>
     <li>
-      <h3>Générateur de Mot de Passe Sécurisé</h3>
-      <p>Un générateur de mot de passe sécurisé et un vérificateur de robustesse avec une interface utilisateur interactive. Ce projet permet à l'utilisateur de créer des mots de passe aléatoires avec des critères personnalisables et de tester la robustesse de mots de passe existants. L'application permet également de copier et coller facilement les mots de passe grâce à des boutons dédiés.</p>
+      <h3>Secure Password Generator</h3>
+      <p>A secure password generator and strength checker with an interactive user interface. Allows the user to create random passwords with customizable criteria and test the strength of existing passwords</p>
       <div>
         <a href="https://github.com/AbderemaneAttoumaniDEV/PasswordGenerator" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="Code GitHub" />
+          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
         </a>
         <a href="https://abderemaneattoumanidev.github.io/PasswordGenerator/" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
@@ -116,11 +116,11 @@
       </div>
     </li>
     <li>
-      <h3>Formulaire d'Authentification Locale</h3>
-      <p>formulaire d'authentification (connexion et inscription) qui fonctionne en local, idéal pour une démonstration simple ou un prototype de gestion d'utilisateurs. Les informations utilisateur sont stockées dans localStorage pour simuler une base de données locale.</p>
+      <h3>Local Authentication Form</h3>
+      <p>Authentication form (login and registration) that works locally, ideal for a simple demonstration or user management prototype. User information is stored in localStorage to simulate a local database</p>
       <div>
         <a href="https://github.com/AbderemaneAttoumaniDEV/Local-Authentication-Form" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="Code GitHub" />
+          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
         </a>
         <a href="https://abderemaneattoumanidev.github.io/Local-Authentication-Form/" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
@@ -129,7 +129,7 @@
     </li>
     <li>
       <h3>Card Management</h3>
-      <p>Petite application qui permet de créer et de visualiser des cartes.</p>
+      <p>Small application that allows you to create and view maps</p>
       <div>
         <a href="https://github.com/AbderemaneAttoumaniDEV/Card-Management" target="_blank">
           <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="Code GitHub" />
@@ -140,7 +140,7 @@
 </div>
 
 ---
-### 🛠️ Langages et Outils
+### 🛠️ Languages ​​and Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12"/>
@@ -183,9 +183,9 @@
 
 ---
 
-### 📊 Statistiques GitHub
+### 📊 GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbderemaneAttoumaniDEV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=flag-india&locale=en&hide_border=false" height="150" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbderemaneAttoumaniDEV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=flag-india&locale=en&hide_border=false" height="150" alt="GitHub Statistics" />
   <img src="https://streak-stats.demolab.com?user=AbderemaneAttoumaniDEV&locale=en&mode=daily&theme=flag-india&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbderemaneAttoumaniDEV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=flag-india&hide_border=false" height="150" alt="Top Langs" />
 </div>
