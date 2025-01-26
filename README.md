@@ -26,7 +26,7 @@
 ### 👋 About me
 - 🎓 **Current formation :** Currently training in Full-Stack Web development, I am investing in acquiring new skills
 - 💡 **Goal :** Become a versatile and efficient developer
-- 🌱 **Currently learning :** Python, JavaScript, Php, React, Docker and others technologies
+- 🌱 **Currently learning :** C#, Python, JavaScript, Php, React and others technologies
 
 ---
 
