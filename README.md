@@ -46,6 +46,15 @@
       </div>
     </li>
     <li>
+      <h3>Simple Calculator C#</h3>
+      <p>Calculatrice simple en C# permettant d'effectuer des opérations de base (addition, soustraction, multiplication, division)</p>
+      <div>
+        <a href="https://github.com/AbderemaneAttoumaniDEV/Simple-Calculator-Csharp" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="Code GitHub" />
+        </a>
+      </div>
+    </li>
+    <li>
       <h3>L'Atelier d'Ayssa</h3>
       <p>Site vitrine pour l'Atelier d'Ayssa, avec une structure de base et les premières sections du site (accueil, menu et présentation des bijoux).</p>
       <div>
