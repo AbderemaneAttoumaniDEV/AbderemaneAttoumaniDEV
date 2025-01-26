@@ -34,7 +34,7 @@
 <div align="left">
   <ul>
     <li>
-      <h3>Mon Portfolio</h3>
+      <h3>Portfolio</h3>
       <p>This is simply my Portfolio, created as part of my web development apprenticeship. A project designed to practice HTML5, Tailwind CSS, JavaScript, some Php and the file structure of a project.</p>
       <div>
         <a href="https://github.com/AbderemaneAttoumaniDEV/AbderemaneAttoumaniDEV.github.io" target="_blank">
