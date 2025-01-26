@@ -46,6 +46,15 @@
       </div>
     </li>
     <li>
+      <h3>Convertisseur d'Unités en C#</h3>
+      <p>Convertisseur d'unités de longueur en C#, permettant la conversion entre mètres, kilomètres, centimètres et millimètres via une interface console simple et intuitive.</p>
+      <div>
+        <a href="https://github.com/AbderemaneAttoumaniDEV/Length-Unit-Converter-Csharp" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
+        </a>
+      </div>
+    </li>
+    <li>
       <h3>Simple Calculator C#</h3>
       <p>Simple C# calculator to perform basic operations (addition, subtraction, multiplication, division)</p>
       <div>
