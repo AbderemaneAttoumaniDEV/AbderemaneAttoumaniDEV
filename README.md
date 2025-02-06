@@ -46,8 +46,17 @@
       </div>
     </li>
     <li>
-      <h3>Convertisseur d'Unités en C#</h3>
-      <p>Convertisseur d'unités de longueur en C#, permettant la conversion entre mètres, kilomètres, centimètres et millimètres via une interface console simple et intuitive.</p>
+      <h3>Snake-Game</h3>
+      <p>Classic snake game developed in C# with MonoGame. The player controls a snake that grows with each apple eaten, while avoiding collisions with edges and with itself.</p>
+      <div>
+        <a href="https://github.com/AbderemaneAttoumaniDEV/Snake-Game" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
+        </a>
+      </div>
+    </li>
+    <li>
+      <h3>Unit converter</h3>
+      <p>Length unit converter in C#, allowing conversion between meters, kilometers, centimeters and millimeters via a simple and intuitive console interface.</p>
       <div>
         <a href="https://github.com/AbderemaneAttoumaniDEV/Length-Unit-Converter-Csharp" target="_blank">
           <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
@@ -55,7 +64,7 @@
       </div>
     </li>
     <li>
-      <h3>Simple Calculator C#</h3>
+      <h3>Simple Calculator</h3>
       <p>Simple C# calculator to perform basic operations (addition, subtraction, multiplication, division)</p>
       <div>
         <a href="https://github.com/AbderemaneAttoumaniDEV/Simple-Calculator-Csharp" target="_blank">
