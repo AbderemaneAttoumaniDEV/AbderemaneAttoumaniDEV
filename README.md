@@ -46,15 +46,6 @@
       </div>
     </li>
     <li>
-      <h3>Snake-Game</h3>
-      <p>Classic snake game developed in C# with MonoGame. The player controls a snake that grows with each apple eaten, while avoiding collisions with edges and with itself.</p>
-      <div>
-        <a href="https://github.com/AbderemaneAttoumaniDEV/Snake-Game" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
-        </a>
-      </div>
-    </li>
-    <li>
       <h3>Unit converter</h3>
       <p>Length unit converter in C#, allowing conversion between meters, kilometers, centimeters and millimeters via a simple and intuitive console interface.</p>
       <div>
