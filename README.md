@@ -46,6 +46,18 @@
       </div>
     </li>
     <li>
+      <h3>Candidate Management System</h3>
+      <p>Complete candidate management system built with Next.js and NestJS, featuring document management, status tracking, and automated alerts for expired permits through a modern web interface with PostgreSQL database integration.</p>
+      <div>
+        <a href="https://github.com/AbderemaneAttoumaniDEV/candidate-management-system" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
+        </a>
+        <a href="https://abderemaneattoumanidev.github.io/candidate-management-system/" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
+        </a>
+      </div>
+    </li>
+    <li>
       <h3>Unit converter</h3>
       <p>Length unit converter in C#, allowing conversion between meters, kilometers, centimeters and millimeters via a simple and intuitive console interface.</p>
       <div>
