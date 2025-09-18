@@ -58,24 +58,6 @@
       </div>
     </li>
     <li>
-      <h3>Unit converter</h3>
-      <p>Length unit converter in C#, allowing conversion between meters, kilometers, centimeters and millimeters via a simple and intuitive console interface.</p>
-      <div>
-        <a href="https://github.com/AbderemaneAttoumaniDEV/Length-Unit-Converter-Csharp" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
-        </a>
-      </div>
-    </li>
-    <li>
-      <h3>Simple Calculator</h3>
-      <p>Simple C# calculator to perform basic operations (addition, subtraction, multiplication, division)</p>
-      <div>
-        <a href="https://github.com/AbderemaneAttoumaniDEV/Simple-Calculator-Csharp" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
-        </a>
-      </div>
-    </li>
-    <li>
       <h3>L'Atelier d'Ayssa</h3>
       <p>Showcase site for Atelier d'Ayssa, with a basic structure and the first sections of the site (home, menu and presentation of the jewelry)</p>
       <div>
@@ -200,15 +182,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="Webpack" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" alt="Symfony" />
-</div>
-
----
-
-### 📊 GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbderemaneAttoumaniDEV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=flag-india&locale=en&hide_border=false" height="150" alt="GitHub Statistics" />
-  <img src="https://streak-stats.demolab.com?user=AbderemaneAttoumaniDEV&locale=en&mode=daily&theme=flag-india&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbderemaneAttoumaniDEV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=flag-india&hide_border=false" height="150" alt="Top Langs" />
 </div>
 
 ---
