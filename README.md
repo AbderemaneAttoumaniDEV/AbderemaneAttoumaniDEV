@@ -107,18 +107,6 @@
       </div>
     </li>
     <li>
-      <h3>Local Authentication Form</h3>
-      <p>Authentication form (login and registration) that works locally, ideal for a simple demonstration or user management prototype. User information is stored in localStorage to simulate a local database</p>
-      <div>
-        <a href="https://github.com/AbderemaneAttoumaniDEV/Local-Authentication-Form" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
-        </a>
-        <a href="https://abderemaneattoumanidev.github.io/Local-Authentication-Form/" target="_blank">
-          <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
-        </a>
-      </div>
-    </li>
-    <li>
       <h3>Card Management</h3>
       <p>Small application that allows you to create and view maps</p>
       <div>
