@@ -44,7 +44,7 @@
     </li>
     <li>
       <h3>Task Flow</h3>
-      <p>To-Do List moderne et responsive réalisé en HTML5, Tailwind CSS et JavaScript. Permet l'ajout, la completion et la suppresion des tâches, avec une persistance des données assurée par localStorage.</p>
+      <p>A modern and responsive to-do list built with HTML5, Tailwind CSS, and JavaScript. It allows users to add, complete, and delete tasks, with data persistence ensured by localStorage.</p>
       <div>
         <a href="https://abderemaneattoumanidev.github.io/task_flow/" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
