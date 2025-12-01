@@ -67,9 +67,6 @@
       <h3>Interactive-Quiz</h3>
       <p>This project is an Interactive Quiz made as part of my web development apprenticeship. It allows you to practice HTML5, Tailwind CSS, JavaScript, PHP for the backend, and the management of a professional file structure</p>
       <div>
-        <a href="https://github.com/AbderemaneAttoumaniDEV/Interactive-Quiz" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
-        </a>
         <a href="https://abderemaneattoumanidev.github.io/Interactive-Quiz/" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
         </a>
@@ -101,9 +98,6 @@
       <h3>Secure Password Generator</h3>
       <p>A secure password generator and strength checker with an interactive user interface. Allows the user to create random passwords with customizable criteria and test the strength of existing passwords</p>
       <div>
-        <a href="https://github.com/AbderemaneAttoumaniDEV/PasswordGenerator" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
-        </a>
         <a href="https://abderemaneattoumanidev.github.io/PasswordGenerator/" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
         </a>
