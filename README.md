@@ -43,6 +43,15 @@
       </div>
     </li>
     <li>
+      <h3>Task Flow</h3>
+      <p>To-Do List moderne et responsive réalisé en HTML5, Tailwind CSS et JavaScript. Permet l'ajout, la completion et la suppresion des tâches, avec une persistance des données assurée par localStorage.</p>
+      <div>
+        <a href="https://abderemaneattoumanidev.github.io/task_flow/" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
+        </a>
+      </div>
+    </li>
+    <li>
       <h3>L'Atelier d'Ayssa</h3>
       <p>Showcase site for Atelier d'Ayssa, with a basic structure and the first sections of the site (home, menu and presentation of the jewelry)</p>
       <div>
