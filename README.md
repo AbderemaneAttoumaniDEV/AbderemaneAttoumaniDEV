@@ -6,11 +6,11 @@
 😋 Just a simple coder
 ```
 
-<h1 align="center">
+**<h1 align="center">**
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=100&center=true&multiline=true&width=435&lines=Hello+world!;I+am+Abd%C3%A9r%C3%A9mane+Attoumani" alt="Typing SVG" /></a>
 </h1>
 
-<h2 align="center">🚀 Junior Developer</h2>
+**<h2 align="center">🚀 Junior Developer</h2>**
 
 ###
 
