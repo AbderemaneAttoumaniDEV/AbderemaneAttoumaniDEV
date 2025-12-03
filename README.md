@@ -51,6 +51,8 @@
     <td style="text-align: center; border: 0px; padding: 12px;">
       <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
     </td>
+ </tr>
+  <tr>
     <td style="text-align: center; border: 0px; padding: 12px;">
       <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
     </td>
@@ -63,19 +65,19 @@
     <td style="text-align: center; border: 0px; padding: 12px;">
       <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows 11" />
     </td>
-     </tr>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+    </td>
+  </tr>
  <tr>  
     <td style="text-align: center; border: 0px; padding: 12px;">
       <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
       <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
       <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
@@ -86,15 +88,19 @@
     <td style="text-align: center; border: 0px; padding: 12px;">
       <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
     </td>
+ </tr>
+  <tr>
     <td style="text-align: center; border: 0px; padding: 12px;">
       <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="Obsidian" />
-    </td>  <td style="text-align: center; border: 0px; padding: 12px;">
+    </td>  
+    <td style="text-align: center; border: 0px; padding: 12px;">
       <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="Roblox Studio" />
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
       <img src="https://skillicons.dev/icons?i=vue" height="40" alt="VSCode" />
     </td>
-   </tr>
+    
+  </tr>
  <tr>  
     <td style="text-align: center; border: 0px; padding: 12px;">
       <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
@@ -107,12 +113,6 @@
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
       <img src="https://skillicons.dev/icons?i=phpstorm" height="40" alt="PhpStorm" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=robloxstudio" height="40" alt="Roblox Studio" />
-    </td>
-  <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=cs" height="40" alt="Python" />
     </td>
   </tr>
 </table>
