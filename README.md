@@ -103,15 +103,6 @@
         </a>
       </div>
     </li>
-    <li>
-      <h3>Card Management</h3>
-      <p>Small application that allows you to create and view maps</p>
-      <div>
-        <a href="https://github.com/AbderemaneAttoumaniDEV/Card-Management" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="Code GitHub" />
-        </a>
-      </div>
-    </li>
   </ul>
 </div>
 
