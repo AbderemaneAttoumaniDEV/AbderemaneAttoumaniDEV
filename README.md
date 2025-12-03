@@ -2,13 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=100&center=true&multiline=true&width=435&lines=Hello+world!;I+am+Abd%C3%A9r%C3%A9mane+Attoumani" alt="Typing SVG" /></a>
 </h1>
 
-<h2 align="center">🚀 Junior Full-Stack Web Developer</h2>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AbderemaneAttoumaniDEV/count.svg?"  />
-</div>
+<h2 align="center">🚀 Junior Developer</h2>
 
 ###
 
