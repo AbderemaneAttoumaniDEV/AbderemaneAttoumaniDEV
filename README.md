@@ -1,3 +1,11 @@
+![img](img/code.gif)
+
+<br>
+
+```markdown
+😋 Just a simple coder
+```
+
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=100&center=true&multiline=true&width=435&lines=Hello+world!;I+am+Abd%C3%A9r%C3%A9mane+Attoumani" alt="Typing SVG" /></a>
 </h1>
@@ -18,9 +26,96 @@
 ---
 
 ### 👋 About me
-- 🎓 **Current formation :** Currently training in Full-Stack Web development, I am investing in acquiring new skills
+- 🎓 **Current formation :** Currently training in Web development, I am investing in acquiring new skills
 - 💡 **Goal :** Become a versatile and efficient developer
-- 🌱 **Currently learning :** C#, Python, JavaScript, Php, React and others technologies
+- 🌱 **Currently learning :** Python, JavaScript, Php, React and others technologies
+
+<br>
+
+  
+ **<h2 align="left">💀 Skills & Stacks</h2>**
+<table style="width: 100%; border: 0px solid white;">
+  <tr>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="Ubuntu" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Discord" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows 11" />
+    </td>
+     </tr>
+ <tr>  
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="Webpack" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="Obsidian" />
+    </td>  <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="Roblox Studio" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=vue" height="40" alt="VSCode" />
+    </td>
+   </tr>
+ <tr>  
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="PyCharm" />
+    </td>
+  <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="Webstorm" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=phpstorm" height="40" alt="PhpStorm" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=robloxstudio" height="40" alt="Roblox Studio" />
+    </td>
+  <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=cs" height="40" alt="Python" />
+    </td>
+  </tr>
+</table>
 
 ---
 
