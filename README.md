@@ -136,7 +136,7 @@
       <h3>Task Flow</h3>
       <p>A modern and responsive to-do list built with HTML5, Tailwind CSS, and JavaScript. It allows users to add, complete, and delete tasks, with data persistence ensured by localStorage.</p>
       <div>
-        <a href="https://abderemaneattoumanidev.github.io/task_flow/" target="_blank">
+        <a href="https://abderemaneattoumani.github.io/task_flow/" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
         </a>
       </div>
@@ -145,10 +145,10 @@
       <h3>L'Atelier d'Ayssa</h3>
       <p>Showcase site for Atelier d'Ayssa, with a basic structure and the first sections of the site (home, menu and presentation of the jewelry)</p>
       <div>
-        <a href="https://github.com/AbderemaneAttoumaniDEV/Atelier-Ayssa" target="_blank">
+        <a href="https://abderemaneattoumani.github.io/Atelier-Ayssa/" target="_blank">
           <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
         </a>
-        <a href="https://abderemaneattoumanidev.github.io/Atelier-Ayssa/" target="_blank">
+        <a href="https://abderemaneattoumani.github.io/Atelier-Ayssa/" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
         </a>
       </div>
@@ -157,7 +157,7 @@
       <h3>Interactive-Quiz</h3>
       <p>This project is an Interactive Quiz made as part of my web development apprenticeship. It allows you to practice HTML5, Tailwind CSS, JavaScript, PHP for the backend, and the management of a professional file structure</p>
       <div>
-        <a href="https://abderemaneattoumanidev.github.io/Interactive-Quiz/" target="_blank">
+        <a href="https://abderemaneattoumani.github.io/Interactive-Quiz/" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
         </a>
       </div>
@@ -166,10 +166,10 @@
       <h3>To Do List</h3>
       <p>A simple and interactive ToDoList application developed in HTML, CSS and JavaScript. This project allows users to create, edit and delete tasks, providing an intuitive interface for organizing to-do lists</p>
       <div>
-        <a href="https://github.com/AbderemaneAttoumaniDEV/ToDoList-JavaScript" target="_blank">
+        <a href="https://github.com/abderemaneattoumani/ToDoList-JavaScript" target="_blank">
           <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
         </a>
-        <a href="https://abderemaneattoumanidev.github.io/ToDoList-JavaScript/" target="_blank">
+        <a href="https://abderemaneattoumani.github.io/ToDoList-JavaScript/" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
         </a>
       </div>
@@ -179,7 +179,7 @@
       <h3>Weather App</h3>
       <p>Real-time weather application using OpenWeather API and interactive map, developed with HTML, CSS and JavaScript. Responsive and optimized for mobile devices</p>
       <div>
-        <a href="https://abderemaneattoumanidev.github.io/WeatherApp/" target="_blank">
+        <a href="https://abderemaneattoumani.github.io/WeatherApp/" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
         </a>
       </div>
@@ -188,7 +188,7 @@
       <h3>Secure Password Generator</h3>
       <p>A secure password generator and strength checker with an interactive user interface. Allows the user to create random passwords with customizable criteria and test the strength of existing passwords</p>
       <div>
-        <a href="https://abderemaneattoumanidev.github.io/PasswordGenerator/" target="_blank">
+        <a href="https://abderemaneattoumani.github.io/PasswordGenerator/" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
         </a>
       </div>
@@ -200,5 +200,5 @@
 
 ### 🐍 Contributions
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abderemaneattoumanidev/abderemaneattoumanidev/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/abderemaneattoumani/abderemaneattoumani/output/snake.svg" alt="Snake animation" />
 </div>
